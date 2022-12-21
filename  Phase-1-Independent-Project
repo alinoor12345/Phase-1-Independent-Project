@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Phase-1-Independent-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
